@@ -17,9 +17,19 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
-      url: '/list',
-      icon: 'list'
+      title: 'Profil',
+      url: '/profil',
+      icon: 'person'
+    },
+    {
+      title: 'CatalogPDF',
+      url: '/catalog-pdf',
+      icon: 'logo-buffer'
+    },
+    {
+      title: 'A propos',
+      url: '/apropos',
+      icon: 'text'
     }
   ];
 

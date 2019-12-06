@@ -2,3 +2,32 @@
   max-height: 35vh;
   overflow: hidden;
 }
+
+/*ion-col > div {
+  border: solid 1px #ddd;
+  padding: 5px;
+  font-size: 0.6rem;
+}*/
+
+.name{
+  background-color: #f7f7f7;
+  border-radius: 3px;
+  height: 40px;
+}
+.heure{
+  background-color: #cce6ff;
+  height: 20px;
+  border-radius: 3px 3px 0px 0px;
+  text-align: center;
+}
+.map{
+  background-color: #cce6ff;
+  height: 20px;
+  border-radius: 0px 0px 3px 3px;
+  text-align: center;
+}
+.image >img {
+  height: 40px;
+  width: 40px;
+  border-radius: 100px;
+}
